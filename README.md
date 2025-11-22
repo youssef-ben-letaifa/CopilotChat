@@ -1,4 +1,4 @@
-# 💬 Copilot Chat (Dart/Flutter + Gemini API)
+# Copilot Chat (Dart/Flutter + Gemini API)
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Built with Dart](https://img.shields.io/badge/Built%20with-Dart-0175C2.svg)](https://dart.dev/)
@@ -8,7 +8,7 @@ A mobile application prototype of an AI-powered conversational assistant, built 
 
 ---
 
-## ✨ Features
+## Features
 
 * **Intelligent Chat:** Utilizes the **Gemini API** for fast, relevant, and contextual responses.
 * **Modern Interface:** A clean, intuitive, and modern UI/UX designed with mobile best practices.
@@ -16,7 +16,7 @@ A mobile application prototype of an AI-powered conversational assistant, built 
 * **Multimodal Ready:** (If applicable, based on your implementation) Designed to handle and process both text and image input.
 * **State Management:** (Optional: Add your specific state management, e.g., Provider, Riverpod, BLoC).
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up the project locally on your machine.
 
@@ -55,14 +55,14 @@ You will need the following installed:
     flutter run
     ```
 
-## 🛠️ Built With
+## Built With
 
 * **Dart:** The fast, object-oriented language for Flutter.
 * **Flutter:** Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 * **Gemini API:** Used for powering the conversational AI capabilities of the chat agent.
 * **Package Name** (e.g., `google_generative_ai`): The specific Dart package used for the API.
 
-## 🤝 Contributing
+##  Contributing
 
 This project is primarily a learning exercise. However, suggestions for improvements, especially around best practices for Dart/Flutter or API integration, are welcome!
 
@@ -72,11 +72,11 @@ This project is primarily a learning exercise. However, suggestions for improvem
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📞 Contact
+##  Contact
 
 Youssef Ben Letaifa  | youssef.benletaifa@intek.u-jendouba.tn
 
@@ -84,7 +84,7 @@ Youssef Ben Letaifa  | youssef.benletaifa@intek.u-jendouba.tn
 
 ---
 
-## 💡 Acknowledgements
+## Acknowledgements
 
 * [Flutter Documentation](https://flutter.dev/docs)
 * [Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
