@@ -78,9 +78,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - [Your Email/LinkedIn]
+Youssef Ben Letaifa  | youssef.benletaifa@intek.u-jendouba.tn
 
-Project Link: [https://github.com/YourUsername/copilot-chat-dart](https://github.com/YourUsername/copilot-chat-dart)
+ Link: [[https://github.com/YourUsername/copilot-chat-dart](https://github.com/YourUsername/copilot-chat-dart](https://youssef-ben-letaifa.github.io/ben.letaifa.youssef/#contact))
 
 ---
 
