@@ -11,6 +11,22 @@
 
 **Copilot Chat** is a sophisticated mobile application featuring an AI-powered conversational assistant. Built with Flutter and Dart, it seamlessly integrates with Google's Gemini API to deliver intelligent, context-aware conversations with modern UI/UX design optimized for both Android and iOS platforms.
 
+## 🎥 Demo Video
+
+<div align="center">
+
+### Watch Copilot Chat in Action
+
+[![Copilot Chat Demo](https://img.youtube.com/vi/OZZvecdX4ZI/maxresdefault.jpg)](https://youtu.be/OZZvecdX4ZI)
+
+**[▶️ Watch Full Demo on YouTube](https://youtu.be/OZZvecdX4ZI)**
+
+*See AI-driven conversations powered by Gemini API with a modern, intuitive interface*
+
+</div>
+
+---
+
 [Features](#-features) • [Installation](#-installation) • [Usage](#️-usage)  • [Contributing](#-contributing)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
